@@ -17,7 +17,7 @@ Statistics & data science graduate (GPA 4.0) with a BSc in Mathematics & Economi
 
 **Tools:** Python · R · SQL · Excel/VBA · Bloomberg Terminal · Power BI · GitHub
 
-**Languages:** English (IELTS 7) · Cantonese (native) · Mandarin
+**Languages:** English · Cantonese (native) · Mandarin
 
 ---
 
@@ -48,7 +48,7 @@ More coursework & research: [Academic_Project](https://github.com/restinghouse02
 - **Cornell University** — MPS, Applied Statistics & Data Science (2025–2026, GPA 4.0)
 - **HKUST** — BSc Mathematics & Economics (Second Class Honours, Division I)
 - **Exchange:** Nagoya University (Stochastic Calculus, Grade A)
-- **Exchange:** Charles University
+- **Exchange:** Charles University (Photography)
 
 ---
 
