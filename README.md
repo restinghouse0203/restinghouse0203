@@ -57,5 +57,5 @@ More coursework & research: [Academic_Project](https://github.com/restinghouse02
 
 Data science · quantitative risk · market/credit risk · quant research
 
-📍 Ithaca, NY · Open to relocation  
+📍 New York, USA · Open to relocation  
 🔗 [LinkedIn](https://www.linkedin.com/in/tony-au0203/) · [GitHub](https://github.com/restinghouse0203) · [Pair-trading demo](https://tyau0203.shinyapps.io/pair-trading-bhp-vale/)
